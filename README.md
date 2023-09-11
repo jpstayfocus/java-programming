@@ -2,4 +2,4 @@
 software developer journey
 
 ### Programming language
-- JAVA
+- Java
