@@ -11,6 +11,8 @@
     
     <img width="1286" alt="primitives types" src="https://github.com/jpstayfocus/software-developer/assets/110998062/77fa3359-04df-45d2-8a49-3adb4796d7c5">
     
-  - Reference types
+  - Reference types (store complex objects)
+
+    
 
 
