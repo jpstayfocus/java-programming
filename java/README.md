@@ -4,3 +4,7 @@
   -  Advanced Topic
 
 ### Foundamentals
+
+- [Variables](https://www.w3schools.com/java/java_variables.asp)
+
+
