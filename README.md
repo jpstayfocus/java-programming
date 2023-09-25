@@ -1,4 +1,4 @@
-# software-developer
+# Java Programming
 software developer journey
 
 ### Programming language
